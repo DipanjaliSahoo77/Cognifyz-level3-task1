@@ -1,0 +1,34 @@
+.gallery-image {
+    width: 140px;
+    height: 140px;
+    display: block;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s;
+
+}
+
+.gallery-image:hover {
+    transform: scale(1.2);
+}
+
+.head-styl {
+    font-family: "monaco";
+}
+
+.image-space {
+    width: 990px;
+    height: 50vh;
+}
+
+.bag-styl {
+    background-color: #6d4187;
+}
+
+.logo {
+    height: 150px;
+    width: 150px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+}
